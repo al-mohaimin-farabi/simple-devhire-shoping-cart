@@ -2,7 +2,7 @@
 
 Bootstrappe,React and coustom css are used to make  [this](https://findthebestdev.netlify.app/) site possible.
 
-## Available Scripts
+## Available Scripts to make this site alive
 
 In the project directory, you can run:
 
