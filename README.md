@@ -1,6 +1,6 @@
 # Find The Best Dev
 
-Bootstrappe,React and coustom css are used to make  ###[this](https://findthebestdev.netlify.app/) site possible.
+Bootstrappe,React and coustom css are used to make  ###`[this]`(https://findthebestdev.netlify.app/) site possible.
 
 ## Available Scripts to make this site alive
 
