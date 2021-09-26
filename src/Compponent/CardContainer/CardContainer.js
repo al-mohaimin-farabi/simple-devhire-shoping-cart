@@ -16,13 +16,10 @@ const CardContainer = () => {
     // console.log(product);
     const newCart = [...cart, product];
     setCart(newCart);
-    for (const key of newCart) {
-      if (product.key === key.key) {
-        console.log("pass");
-      } else {
-        console.log("fail");
-      }
-    }
+    // console.log(newCart[0].key);
+    // for (const key of newCart) {
+    //   newCart.find(key);
+    // }
 
     // console.log(cart);
   };
