@@ -18,7 +18,7 @@ const CardContainer = () => {
     setCart(newCart);
     // console.log(newCart[0].key);
     // for (const key of newCart) {
-    //   newCart.find(key);
+    //   newCart.find((cart) => cart.key === key.key);;
     // }
 
     // console.log(cart);
@@ -30,7 +30,7 @@ const CardContainer = () => {
         <div className="row row-cols-1 row-cols-md-3 g-3">
           {cards.map((card) => (
             <Card
-              key={card.key}
+              key={Math.random() * 1000}
               card={card}
               handleAddToCart={handleAddToCart}
             ></Card>

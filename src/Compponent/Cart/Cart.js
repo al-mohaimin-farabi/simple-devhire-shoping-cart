@@ -10,6 +10,11 @@ const Cart = (props) => {
     // console.log(price.key);
     total = total + price.salary_per_month;
   }
+  let cartBtn = document.getElementById("cart-btn");
+  if (props.cart.length) {
+    cartBtn.classList.remove("d-none");
+  }
+
   //   console.log(parseInt(total));
   return (
     <div>
@@ -23,8 +28,13 @@ const Cart = (props) => {
         </h3>
       </div>
       {cart.map((dev) => (
-        <CartChild cartInfo={dev} key={dev.key}></CartChild>
+        <CartChild cartInfo={dev} key={Math.random() * 1000}></CartChild>
       ))}
+      <div className="text-center">
+        <button className="btn btn-success my-2 d-none fw-bold" id="cart-btn">
+          Hire Now
+        </button>
+      </div>
     </div>
   );
 };

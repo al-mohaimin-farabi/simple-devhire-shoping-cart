@@ -1,6 +1,5 @@
 [
   {
-    "key": 1,
     "img": "./image/img1.jpg",
     "name": "Brad Traversy",
     "country": "United States",
@@ -9,7 +8,6 @@
     "salary_per_month": 11000
   },
   {
-    "key": 2,
     "img": "./image/img2.jpg",
     "name": "Mosh Hamedani",
     "country": "Australia",
@@ -18,7 +16,6 @@
     "salary_per_month": 13000
   },
   {
-    "key": 3,
     "img": "./image/img3.jpg",
     "name": "Hitesh Choudhary",
     "country": "India",
@@ -27,7 +24,6 @@
     "salary_per_month": 7000
   },
   {
-    "key": 4,
     "img": "./image/img4.jpg",
     "name": "Simo Edwin",
     "country": "Germany",
@@ -36,7 +32,6 @@
     "salary_per_month": 5600
   },
   {
-    "key": 5,
     "img": "./image/img5.jpg",
     "name": "Jhankar Mahbub",
     "country": "Bangladesh",
@@ -45,7 +40,6 @@
     "salary_per_month": 17500
   },
   {
-    "key": 6,
     "img": "./image/img6.JPG",
     "name": "Rafeh Qazi",
     "country": "United States",
@@ -54,7 +48,6 @@
     "salary_per_month": 7000
   },
   {
-    "key": 7,
     "img": "./image/img7.jpg",
     "name": "Florin Pop",
     "country": "Romania",
@@ -63,7 +56,6 @@
     "salary_per_month": 3000
   },
   {
-    "key": 8,
     "img": "./image/img8.jpg",
     "name": "Kevin Powell",
     "country": "United States",
@@ -72,7 +64,6 @@
     "salary_per_month": 6200
   },
   {
-    "key": 9,
     "img": "./image/img9.jpg",
     "name": "Jessica Chan",
     "country": "United States",
@@ -81,7 +72,6 @@
     "salary_per_month": 21000
   },
   {
-    "key": 10,
     "img": "./image/img10.jpg",
     "name": "Haris Khan",
     "country": "India",

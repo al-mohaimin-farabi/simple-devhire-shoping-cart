@@ -9,3 +9,8 @@
   border-radius: 50%;
   border: 4px solid rgb(255, 255, 255);
 }
+a:hover i {
+  transition: all 0.2s linear;
+  transform: scale(1.2);
+  color: rgb(255, 255, 255) !important;
+}
