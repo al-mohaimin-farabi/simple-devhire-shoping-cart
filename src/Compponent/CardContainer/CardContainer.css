@@ -1,0 +1,15 @@
+.grid {
+  display: grid;
+  grid-template-columns: 2fr 500px;
+}
+.fixed {
+  position: fixed;
+  height: 50vh;
+  overflow-y: scroll;
+  top: calc(100vh - 85vh);
+  right: 4vw;
+  background: #212529;
+  padding: 20px;
+  border-radius: 3px;
+  border: 1px solid white;
+}

@@ -1,0 +1,50 @@
+[
+    {
+    name:Brad Traversy,
+    youtube_channel_name:Traversy Media,
+    subscriber:"725K",
+    salary_per_month: 11000,
+    },
+    {
+    name:Mosh Hamedani,
+    youtube_channel_name:Programming with Mosh,
+    subscriber:"419K",
+    salary_per_month: 13000,
+    },
+    {
+    name:Hitesh Choudhary,
+    youtube_channel_name:Hitesh Choudhary,
+    subscriber:"360K",
+    salary_per_month: 7000,
+    },
+    {
+    name:Edward,
+    youtube_channel_name:Dev Ed,
+    subscriber:"693K",
+    salary_per_month: 5600,
+    },
+    {
+    name:Jhankar Mahbub ,
+    youtube_channel_name:Jhankar Mahbub ,
+    subscriber:"367K",
+    salary_per_month: 17000,
+    },
+    {
+    name:Rafeh Qazi,
+    youtube_channel_name:Clever Programmer,
+    subscriber:"1.01M",
+    salary_per_month: 7000,
+    },
+    {
+    name:Florin Pop,
+    youtube_channel_name:Florin Pop,
+    subscriber:"122k",
+    salary_per_month: 3000,
+    },
+    {
+    name:Kevin Powell,
+    youtube_channel_name:Kevin Powell,
+    subscriber:"361k",
+    salary_per_month: 5200,
+    },
+]

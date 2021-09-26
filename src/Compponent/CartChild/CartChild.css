@@ -1,0 +1,18 @@
+.my-style {
+  display: flex;
+  align-items: center;
+}
+.img-box {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+}
+.my-style img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 2px solid #000;
+}
